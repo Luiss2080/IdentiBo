@@ -1,5 +1,5 @@
 {
-  "name": "@luiss2080/bolivia-id",
+  "name": "@luiss2080/identibo",
   "version": "1.0.0",
   "description": "Validación de formato de CI y NIT, montos en letras al estilo de facturas bolivianas (Son: ... 00/100 Bolivianos) y formato Bs. Cero dependencias.",
   "type": "module",
@@ -11,8 +11,8 @@
   "author": "Luis Rocha <https://github.com/Luiss2080>",
   "license": "MIT",
   "engines": { "node": ">=18" },
-  "repository": { "type": "git", "url": "git+https://github.com/Luiss2080/bolivia-id.git" },
-  "bugs": "https://github.com/Luiss2080/bolivia-id/issues",
-  "homepage": "https://github.com/Luiss2080/bolivia-id#readme",
+  "repository": { "type": "git", "url": "git+https://github.com/Luiss2080/IdentiBo.git" },
+  "bugs": "https://github.com/Luiss2080/IdentiBo/issues",
+  "homepage": "https://github.com/Luiss2080/IdentiBo#readme",
   "publishConfig": { "registry": "https://npm.pkg.github.com", "access": "public" }
 }
