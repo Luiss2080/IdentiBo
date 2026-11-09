@@ -1,6 +1,6 @@
 {
   "name": "@luiss2080/identibo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Validación de formato de CI y NIT, montos en letras al estilo de facturas bolivianas (Son: ... 00/100 Bolivianos) y formato Bs. Cero dependencias.",
   "type": "module",
   "main": "index.js",
