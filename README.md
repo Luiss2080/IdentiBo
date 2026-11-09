@@ -1,9 +1,9 @@
-# @luiss2080/bolivia-id
+# IdentiBo
 
 Utilidades para formularios y facturación en Bolivia, sin dependencias.
 
 ```js
-import { validarCI, validarNIT, montoEnLetras, formatoBOB } from '@luiss2080/bolivia-id';
+import { validarCI, validarNIT, montoEnLetras, formatoBOB } from '@luiss2080/identibo';
 
 validarCI('1234567-1A SC');   // { valido: true, numero: '1234567', complemento: '1A', expedido: 'SC' }
 validarNIT('102.030.405');    // { valido: true, nit: '102030405' }
@@ -25,7 +25,7 @@ Se publica en GitHub Packages. Agrega a tu `.npmrc`:
 ```
 
 ```bash
-npm install @luiss2080/bolivia-id
+npm install @luiss2080/identibo
 ```
 
 > GitHub Packages pide autenticarse (token con `read:packages`) incluso para paquetes públicos.
